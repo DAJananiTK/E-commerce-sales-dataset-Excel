@@ -31,7 +31,7 @@ The dataset includes the following tables:
 
 ## Dashboard
 
-![E-Commerce Dashboard](images/dashboard.png)
+![E-Commerce Dashboard](dashboard.png)
 
 ## Data Cleaning
 
